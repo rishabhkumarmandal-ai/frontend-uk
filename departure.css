@@ -1,0 +1,119 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.bigbox{
+    height: 760px;
+    width: 100%;
+    background-color: rgba(126, 197, 137, 0.668);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bigbox1{
+    height: 85%;
+    width: 95%;
+    border: 9px solid rgb(251, 246, 246);
+    border-radius: 30px;
+}
+
+.navbar{
+    height: 8%;
+    width: 100%;
+}
+
+.navbar-box{
+    height: 90%;
+    width: 50%;
+    float: right;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 1.3rem;
+    font-weight: 700;
+}
+
+.navbar-box p:hover{
+    text-decoration: underline;
+    color: gray;
+    cursor: pointer;
+}
+
+.btn{
+    height: 8%;
+    width: 50%;
+    margin-top: 2%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btnin{
+    height: 80%;
+    width: 25%;
+    border-radius: 20px;
+}
+
+.btnin:hover{
+    background-color: rgba(197, 197, 234, 0.996);
+    cursor: pointer;
+}
+
+.content{
+    height: 60%;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.con-form{
+    height: 90%;
+    width: 50%;
+}
+
+.con-hed{
+    height: 90%;
+    width: 30%;
+}
+
+.con-hed p{
+    font-size: 6rem;
+    font-weight: 900;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.con-hed-middle {
+    font-size: 10px;
+}
+
+.form-txt{
+    height: 6%;
+    width: 100%;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    font-weight: 700;
+}
+
+.placeholder{
+    height: 8%;
+    width: 100%;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+
+.placeholderin{
+    height: 90%;
+    width: 35%;
+    border-radius: 10px;
+    text-align: center;
+    border: none;
+}
+
+.placeholderin:hover {
+    background-color: rgb(213, 213, 213);
+}

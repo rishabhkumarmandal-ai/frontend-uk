@@ -1,0 +1,160 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.content{
+    height: 760px;
+    width: 100%;
+   background-color: rgb(170, 239, 239);
+   background-image: url("templebg.webp");
+   background-size: cover;
+   
+}
+
+.big-box1{ 
+    height: 20%px;
+    width: 100%;
+    font-size: 2rem;
+    font-weight: 700;
+    text-align: center;
+    color: white;
+
+}
+
+.para{
+    font-size: 1.2rem;
+    color: white;
+}
+
+.big-box2{
+    height: 80%;
+    width: 100%;
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly; 
+    
+}
+
+.box2-box1{
+    height: 60%;
+    width: 15%;
+    
+}
+
+.box2-box2{
+    height: 80%;
+    width: 19%;
+    
+}
+
+.box2-box3{
+    height: 95%;
+    width: 22%;
+    
+}
+
+.box2-box4{
+    height: 80%;
+    width: 19%;
+   
+}
+
+.box2-box5{
+    height: 60%;
+    width: 15%;
+   
+}
+
+.box2-box1:hover{
+    height: 67%;
+    width: 18%;
+    transition: 1s;
+}
+
+.box2-box2:hover{
+    height: 87%;
+    width: 20%;
+    transition: 1s;
+}
+
+.box2-box3:hover{
+    height: 97%;
+    width: 25%;
+    transition: 1s;
+}
+
+.box2-box4:hover{
+    height: 87%;
+    width: 20%;
+    transition: 1s;
+}
+
+.box2-box5:hover{
+    height: 67%;
+    width: 18%;
+    transition: 1s;
+}
+.box1-img1{
+    background-image: url("kedarnath.webp");
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    border-radius: 40px;
+}
+
+.box1-img2{
+    background-image: url("badrinath1.jpg");
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    border-radius: 40px;
+}
+
+.box1-img3{
+    background-image: url("tungnath.webp");
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    border-radius: 40px;
+}
+
+.box1-img4{
+    background-image: url("rishikesh.webp");
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    border-radius: 40px;
+}
+
+.box1-img5{
+    background-image: url("haridwar.webp");
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    border-radius: 40px;
+}
+
+.boxp{
+    font-size: 2rem;
+    text-align: center;
+    font-weight: 700;
+    color: white;
+}
+
+.hed{
+    height: 750px;
+    width: 100%;
+    background-color: rgb(227, 213, 189);
+}
+
+.con{
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+
+#h1{
+    font-size: 1.8rem;
+    font-weight: 700;
+    text-align: center;
+}

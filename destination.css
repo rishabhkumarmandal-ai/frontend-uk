@@ -1,0 +1,112 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.content{
+    height: 800px;
+    width: 100%;
+    background-color: rgb(158, 196, 224);
+    background-image: url("destination-bg2.jpg");
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.big-box {
+    height: 80%;
+    width: 80%;
+
+}
+  
+.big-box1{
+    height: 20%;
+    width: 100%;
+}
+
+.box1-hed{
+    font-size: 2rem;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.box2-para{
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+.big-box2{
+    height: 70%;
+    width: 100%;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.box{
+    height: 90%;
+    width: 20%;
+    border-radius: 30px;
+    background-color: rgb(255, 255, 255);
+}
+
+.box-image{
+    height: 35%;
+    width: 60%;
+    border-radius: 50%;
+    margin: 10% 19%;
+}
+
+.image1 {
+    height: 35%;
+    width: 60%;
+    background-image: url("mountains.webp");
+    background-size: cover;
+}
+
+.image2 {
+    height: 35%;
+    width: 60%;
+    background-image: url("temple.webp");
+    background-size: cover;
+    
+}
+
+.image3 {
+    height: 35%;
+    width: 60%;
+    background-image: url("ganga.webp");
+    background-size: cover;
+}
+
+.box-txt{
+    height: 50%;
+    width: 100%;
+}
+
+.box-txt-hed {
+    font-size: 1.2rem;
+    font-weight: 700;
+    text-align: center;
+}
+
+.box-txt-para {
+    height: 50%;
+    width: 85%;
+    margin: 6% 15%;
+}
+
+.more{
+    height: 12%;
+    width: 60%;
+    background-color: rgb(138, 143, 148);
+    border-radius: 8px;
+    margin-left: 20%;
+}
+
+.more:hover {
+    background-color: rgb(203, 202, 202);
+}

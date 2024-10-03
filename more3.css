@@ -1,0 +1,140 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.bigbox {
+    height: 761px;
+    width: 100%;
+    box-sizing: border-box;
+    background-image: url("riverbg2.jpg");
+    background-size: cover;
+
+}
+
+.photos{
+    
+    height: 85%;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 0%;
+}
+
+.box {
+    height: 90%;
+    width: 25%;
+    margin-top: 5%;
+    border-radius: 30px;
+    margin-bottom: 5%;
+}
+
+.bigbox2{
+    height: 90%;
+    width: 25%;
+}
+
+.box2{
+    height: 40%;
+    width: 70%;
+    margin-bottom: 1%;
+    margin-left: 14%;
+    margin-top: 4%;
+    border-radius: 30px;
+}
+
+.box p{
+    text-align: center;
+    font-size: 1.8rem;
+    font-weight: 900;
+    color: white;
+}
+
+.box3{
+    height: 40%;
+    width: 70%;
+    margin-left: 14%;
+    border-radius: 30px;
+    margin-top: 5%;
+}
+
+.big1box1{
+    background-image: url("alaknanda.webp");
+    background-size: cover;
+}
+
+.big2box1{
+    background-image: url("bhagirathi2.webp");
+    background-size: cover;
+}
+
+.bigbox2-photo{
+    background-image: url("ganga1.webp");
+    background-size: cover;
+    height: 95%;
+    width: 100%;
+    border-radius: 30px;
+}
+
+.bigbox2-txt{
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: rgb(255, 255, 255);
+    margin-top: 2%;
+}
+
+.big1box2{
+    background-image: url("kali.webp");
+    background-size: cover;
+}
+
+.big2box2{
+    background-image: url("yamuna.webp");
+    background-size: cover;
+}
+
+.big-box1{
+    height:15%;
+    width: 100%;
+
+}
+
+.para1{
+    font-size: 2rem;
+    font-weight: 700;
+    text-align: center;
+    font-family: cursive;
+    color: white;
+}
+
+.para{
+    font-size: 1.5rem;
+    font-weight: 700;
+    text-align: center;
+    color: white;
+}
+
+.boxp{
+    font-size: 2rem;
+    text-align: center;
+    font-weight: 700;
+    color: white;
+}
+
+.hed{
+    height: 750px;
+    width: 100%;
+    background-color: rgb(227, 213, 189);
+}
+
+.con{
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+
+#h1{
+    font-size: 1.8rem;
+    font-weight: 700;
+    text-align: center;
+}
